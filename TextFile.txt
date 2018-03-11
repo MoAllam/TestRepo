@@ -2,3 +2,4 @@ this is a test file
 this is the modification line 
 This is a new line made on the local repo => for using the Push Command
 this line added fo the sake of testing the SSH protocol connection with the GitHub
+new line made to indicate the usage of sublime editor as a new default editor for the git 
